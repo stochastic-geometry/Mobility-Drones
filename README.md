@@ -12,4 +12,4 @@ Please cite [1] if you reuse these codes.
 
 ### Reference
 
-[1] M. Banagar and H. S. Dhillon, “Performance characterization of canonical mobility models in drone cellular networks”, available online: [https://arxiv.org/abs/1908.05243](https://arxiv.org/abs/1908.05243).
+[1] M. Banagar and H. S. Dhillon, “Performance characterization of canonical mobility models in drone cellular networks,” available online: [https://arxiv.org/abs/1908.05243](https://arxiv.org/abs/1908.05243).
