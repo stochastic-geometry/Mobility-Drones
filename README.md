@@ -13,7 +13,7 @@ Please cite [1] if you reuse these codes.
 Parts of [1] will be presented at the 2019 IEEE Globecom in Waikoloa, HI, USA [2], [3]. The repository for the codes of [3] can be found [here](https://github.com/stochastic-geometry/SRWP-Drones).
 
 
-![System Model]()
+![System Model](https://github.com/stochastic-geometry/Mobility-Drones/blob/master/SystemModel.jpg)
 
 ### References
 
