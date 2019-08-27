@@ -6,7 +6,7 @@
 
 ### Emails: mbanagar@vt.edu and hdhillon@vt.edu
 
-This repository contains matlab codes for the simulations in [1]. In each folder, you can find the required codes (and data if applicable) to regenerate all simulation plots provided in [1]. For analytical evaluations, Monte-Carlo (MC) integration has been used.
+This repository contains matlab codes for the simulations in [1]. In each folder, you will find the required codes (and data if applicable) to recreate all simulation plots provided in [1]. For analytical evaluations, Monte-Carlo (MC) integration has been used.
 
 Please cite [1] if you reuse these codes.
 
