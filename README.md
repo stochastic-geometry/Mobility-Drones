@@ -8,7 +8,7 @@
 
 This repository contains matlab codes for the simulations in [1]. In each folder, you will find the required codes (and data if applicable) to recreate all simulation plots provided in [1]. For analytical evaluations, Monte-Carlo (MC) integration has been used.
 
-Please cite [1] if you reuse these codes.
+Please cite [1] for reusing these codes.
 
 Parts of [1] will be presented at the 2019 IEEE Globecom in Waikoloa, HI, USA [2], [3]. The repository for the codes of [3] can be found [here](https://github.com/stochastic-geometry/SRWP-Drones).
 
