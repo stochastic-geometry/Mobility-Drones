@@ -13,6 +13,8 @@ Please cite [1] if you reuse these codes.
 Parts of [1] will be presented at the 2019 IEEE Globecom in Waikoloa, HI, USA [2], [3]. The repository for the codes of [3] can be found [here](https://github.com/stochastic-geometry/SRWP-Drones).
 
 
+![System Model](/images/logo.png)
+
 ### References
 
 [1] M. Banagar and H. S. Dhillon, “Performance characterization of canonical mobility models in drone cellular networks,” available online [here](https://arxiv.org/abs/1908.05243).
