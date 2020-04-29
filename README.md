@@ -17,8 +17,8 @@ Parts of [1] was presented at the 2019 IEEE Globecom in Waikoloa, HI, USA [2], [
 
 ### References
 
-[1] M. Banagar and H. S. Dhillon, “Performance characterization of canonical mobility models in drone cellular networks,” available online at [IEEE Xplore](https://ieeexplore.ieee.org/document/9078878) and [ArXiv](https://arxiv.org/abs/1908.05243).
+[1] M. Banagar and H. S. Dhillon, “Performance characterization of canonical mobility models in drone cellular networks,” <i>IEEE Transactions on Wireless Communications</i>, to appear, available online at [IEEE Xplore](https://ieeexplore.ieee.org/document/9078878) and [ArXiv](https://arxiv.org/abs/1908.05243).
 
-[2] M. Banagar and H. S. Dhillon, “3GPP-inspired stochastic geometry-based mobility model for a drone cellular network,” in IEEE Global Commun. Conf. (Globecom), Dec. 2019, available online at [IEEE Xplore](https://ieeexplore.ieee.org/document/9013645) and [ArXiv](https://arxiv.org/abs/1905.00972).
+[2] M. Banagar and H. S. Dhillon, “3GPP-inspired stochastic geometry-based mobility model for a drone cellular network,” in IEEE Global Commun. Conf. (Globecom), Dec. 2019, pp. 1-6, available online at [IEEE Xplore](https://ieeexplore.ieee.org/document/9013645) and [ArXiv](https://arxiv.org/abs/1905.00972).
 
-[3] M. Banagar and H. S. Dhillon, “Fundamentals of drone cellular network analysis under random waypoint mobility model,” in IEEE Global Commun. Conf. (Globecom), Dec. 2019, available online at [IEEE Xplore](https://ieeexplore.ieee.org/document/9013341) and [ArXiv](https://arxiv.org/abs/1908.09064).
+[3] M. Banagar and H. S. Dhillon, “Fundamentals of drone cellular network analysis under random waypoint mobility model,” in Proc. IEEE Global Commun. Conf. (Globecom), Dec. 2019, pp. 1-6, available online at [IEEE Xplore](https://ieeexplore.ieee.org/document/9013341) and [ArXiv](https://arxiv.org/abs/1908.09064).
