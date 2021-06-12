@@ -10,7 +10,7 @@ This repository contains matlab codes for the simulations in [1]. In each folder
 
 Please cite [1] for reusing these codes and contact Morteza Banagar at mbanagar@vt.edu if you have any questions.
 
-Parts of [1] was presented at the 2019 IEEE Globecom in Waikoloa, HI, USA [2], [3]. The repository for the codes of [3] can be found [here](https://github.com/stochastic-geometry/SRWP-Drones).
+Parts of [1] was presented at the 2019 IEEE Globecom in Waikoloa, HI, USA [2], [3]. The repository for the codes of [2] and [3] can be found [here](https://github.com/stochastic-geometry/3GPP-Mobility-Drone) and [here](https://github.com/stochastic-geometry/SRWP-Drones), respectively.
 
 
 ![System Model](https://github.com/stochastic-geometry/Mobility-Drones/blob/master/SystemModel.jpg)
